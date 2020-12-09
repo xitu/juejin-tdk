@@ -2,10 +2,10 @@
 
 ## 代码提交流程
 
-1.在 Github 上 fork 想要参与的项目仓库, fork 后会生成自己的项目
-2.git clone 自己的项目
-3.git add XX，git commit -m "" 进行更新，提交
-4.git push origin master 推送到自己的远程仓库 5.在 github 上新建 Pull Request 请求 6.项目管理员会审核你提交的代码，如果合适就会同意合并，这样你的代码就会出现在源项目中。
+1. 在 Github 上 fork 想要参与的项目仓库, fork 后会生成自己的项目
+2. git clone 自己的项目
+3. git add XX，git commit -m "" 进行更新，提交
+4. git push origin master 推送到自己的远程仓库 5.在 github 上新建 Pull Request 请求 6.项目管理员会审核你提交的代码，如果合适就会同意合并，这样你的代码就会出现在源项目中。
 
 ## 书写规范
 
